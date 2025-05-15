@@ -14,10 +14,15 @@ Desarrollar una solución basada en IA que permita analizar, predecir y explicar
 
 ## 📊 Descripción del Dataset
 
-🔗 **Fuente :** 
+🔗 **Fuente** : Clase comercio internacional, Universidad de los Andes
 
 
-**Descripción**:
+**Descripción**: El dataset utilizado en este proyecto proviene de una clase de Comercio Internacional y contiene información estructurada para aplicar modelos de gravedad comercial, los cuales se utilizan comúnmente para explicar los flujos comerciales entre países.
+
+Incluye transacciones bilaterales entre países correspondientes al período 2021–2023, y contempla variables económicas relevantes como el Producto Interno Bruto (PIB) de los países involucrados, los niveles arancelarios y los tipos de relación comercial y diplomática.
+
+La base contiene 55.559 observaciones y 12 variables, almacenadas en un archivo .csv con valores monetarios expresados en dólares estadounidenses (USD).
+
  
 ### 📌 Variables del dataset
 
@@ -37,6 +42,9 @@ Desarrollar una solución basada en IA que permita analizar, predecir y explicar
 ---
 
 ## 🚀 Modelos Implementados
+LLM: Utilizamos el Large Language Model “deepseek-r1” de la herramienta de código abierto Ollama. Este modelo basado en Transformers está especializado en programación y razonamiento matemático. En nuestro proyecto deepseek-r1 tiene tres funciones claves:  interpretar lenguaje natural, generar código Python y formular análisis económico del resultado.
+
+Librerias: utilizamos librerías tradicionales como pandas, numpy y matplotlib para el análisis y visualización del procesamiento del DataFrame, también se usó Gradio para la interfaz del  ChatBot.
 
 
 
