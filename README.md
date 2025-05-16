@@ -58,8 +58,11 @@ Al recibir la entrada del usuario, el modelo Interpreta la intención de la preg
 El sistema luego ejecuta ese código y presenta al usuario un gráfico claro, con etiquetas, escalas logarítmicas cuando es necesario, y títulos informativos. Como también un análisis textual con predicciones, conclusiones o hallazgos económicos relevantes.
 
 Este flujo permite que el ChatBot no solo entienda preguntas, sino que además tome decisiones analíticas:
+
 •	Prioriza variables que tienen mayor correlación o impacto según el problema consultado.
+
 •	Decide cuándo transformar escalas para mejorar la interpretación (por ejemplo, logaritmos en distribuciones sesgadas).
+
 •	Presenta visualizaciones con estética y contenido adecuados para análisis económico.
 
 La arquitectura del proyecto permite observar que el modelo razona paso a paso, lo cual se evidencia en cómo adapta el análisis según cada pregunta. El modelo también muestra su razonamiento explícito, aplicando criterios lógicos, económicos y estadísticos para seleccionar variables, formatos de gráficos y estructura del output.
