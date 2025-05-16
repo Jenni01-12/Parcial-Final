@@ -1,4 +1,4 @@
-# Titulo
+# TradeBot: Inteligencia Comercial Interactiva
 
 ## 📌 Descripción del Proyecto
 
