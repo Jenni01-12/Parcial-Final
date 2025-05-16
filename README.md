@@ -95,11 +95,4 @@ Autores:
 
 ---
 
-## 📦 Requisitos de Instalación
-
-Para ejecutar este proyecto, asegúrate de tener instaladas las siguientes bibliotecas:
-
-```bash
-pip install 
-
 
