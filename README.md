@@ -41,10 +41,21 @@ La base contiene 55.559 observaciones y 12 variables, almacenadas en un archivo 
 ---
 
 ## 🚀 Modelos Implementados
-LLM: Utilizamos el Large Language Model “deepseek-r1” de la herramienta de código abierto Ollama. Este modelo basado en Transformers está especializado en programación y razonamiento matemático. En nuestro proyecto deepseek-r1 tiene tres funciones claves:  interpretar lenguaje natural, generar código Python y formular análisis económico del resultado.
 
-Librerias: utilizamos librerías tradicionales como pandas, numpy y matplotlib para el análisis y visualización del procesamiento del DataFrame, también se usó Gradio para la interfaz del  ChatBot.
+### 🤖 LLM
+- Utilizamos el **Large Language Model `deepseek-r1`** de la herramienta de código abierto **Ollama**.
+- Este modelo, basado en Transformers, está especializado en **programación** y **razonamiento matemático**.
+- En nuestro proyecto, `deepseek-r1` cumple **tres funciones clave**:
+  - Interpretar preguntas en **lenguaje natural**.
+  - Generar **código Python** para análisis.
+  - Formular **análisis económico** a partir de los resultados obtenidos.
 
+### 🧰 Librerías
+- Para el procesamiento y visualización de los datos utilizamos:
+  - `pandas` → manipulación y filtrado del DataFrame.
+  - `numpy` → operaciones numéricas eficientes.
+  - `matplotlib` → generación de gráficas.
+- La interfaz fue desarrollada con **Gradio**, lo que permite una interacción simple e intuitiva entre el usuario y el modelo.
 
 ---
 
@@ -76,14 +87,6 @@ Librerias: utilizamos librerías tradicionales como pandas, numpy y matplotlib p
 - El modelo **razona paso a paso**, adaptando cada análisis al contenido y contexto de la pregunta.
 - Aplica criterios **lógicos, económicos y estadísticos** para seleccionar variables, formatos de visualización y estructura del resultado.
 - Reconoce los factores económicos relevantes y ajusta los datos antes de graficar (agrupamientos, filtrado, escalado).
-
----
-
-### 🧩 Conclusión
-
-- El sistema combina la potencia de los **modelos LLM** con un entorno de ejecución controlado.
-- Permite realizar **análisis empíricos completos sin intervención técnica** del usuario.
-
 
 ---
 
