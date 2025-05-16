@@ -90,8 +90,8 @@ Autores:
 - Tomas Acevedo Echeverria - Autor principal
 - Jennifer Paola Sarabia Solano - Autor principal
 - Angela Michel Aparicio Sanabria - Autor principal
-- Juan Jose Echavarria Villamizar - Autor principa
-- Alejandro Alberto Gonzalez Londono - Autor principa
+- Juan Jose Echavarria Villamizar - Autor principal
+- Alejandro Alberto Gonzalez Londono - Autor principal
 
 ---
 
