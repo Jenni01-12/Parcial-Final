@@ -115,6 +115,7 @@ La base contiene 55.559 observaciones y 12 variables, almacenadas en un archivo 
 - Las transformaciones aplicadas (como escalas logarítmicas o agrupamientos) no siempre son las óptimas sin contexto humano adicional.
 - Si bien se simula razonamiento paso a paso, el modelo no “razona” en sentido humano: **las respuestas son estadísticas, no lógicas.**
 - Puede fallar al manejar preguntas complejas, mal redactadas o fuera del dominio del dataset proporcionado.
+- Mejorar problemas con el Gradio
 
 
 
