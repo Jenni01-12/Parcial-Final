@@ -87,7 +87,7 @@ Institución: Universidad de los Andes.
 
 Autores:
 
-- Tomas Acevedo Echeverria - Autor principal
+- Tomás Acevedo Echeverria - Autor principal
 - Jennifer Paola Sarabia Solano - Autor principal
 - Angela Michel Aparicio Sanabria - Autor principal
 - Juan Jose Echavarria Villamizar - Autor principal
